@@ -15,7 +15,7 @@ body {
 header {
     position: sticky;
     top: 0;
-    background-color: #242424;
+    background-color: #555555;
     padding: 10px;
     z-index: 1000;
 }
