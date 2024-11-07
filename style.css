@@ -1,26 +1,37 @@
+html{
+    background: #e3e3e3
+
+}
+
+
 body {
-    background-color: pink;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 40px;
     color: #242424;
     border-top: 10px solid #242424;
+    background: #e3e3e3;
 }
 
 h1 {
+    font-size: 3em;
+    margin: 0;
 
 }
 
 p {
+    line-height: 1.4em;
 
 
 }
 
 #blog {
+    border-top: 1px dotted #ccc;
 
 
 }
 
 .blog_post{
+    border-bottom: 1px dotted #ccc;
 
 
 }
